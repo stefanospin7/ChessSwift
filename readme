@@ -1,0 +1,2 @@
+Questo programma è scritto puramente in Swift e utilizza una matrice bidimensionale assieme  al prompt per permettere a due persone di giocare a scacchi.
+Questo funziona andando ad inserire le coordinate in cui si vuole muovere lo scacco e il programma aggiornerà in tempo reale la scacchiera printata a schermo.
