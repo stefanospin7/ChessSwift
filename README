@@ -1,7 +1,7 @@
 This is a command line tool (Swift) which print a matrix used as a chess.
 It ask to two users their moves and print the results (as shown below).
 
-
+***
 Example:
 
     0   1    2    3    4    5    6    7  
